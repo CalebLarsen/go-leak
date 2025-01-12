@@ -1,2 +1,2 @@
-./go-leak
-./out/
+go-leak
+out/*
